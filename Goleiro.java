@@ -7,14 +7,14 @@
  */
 public class Goleiro extends Jogador
 {
-   /* private int numeroGolsSofridos;
+    private int numeroGolsSofridos;
     
     @Override
     public double premiacao(){
     
         return 15000.0 *(1.0/(numeroGolsSofridos +1));
     }
-    */
+   
 
     
 }

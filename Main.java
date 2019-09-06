@@ -47,7 +47,7 @@ public class Main
             System.out.println("## 4) Atacante ");
             int tipoJogador = le.nextInt();
             if(tipoJogador == 1){
-                            Goleiro g = new Goleiro ();
+                            Jogador g = new Goleiro ();
                             System.out.println("##Cadastro de Goleiro##");
                             System.out.println("Nome: ");
                                     g.setNome(le.next());

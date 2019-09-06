@@ -32,7 +32,7 @@ public class Time
     }
     
     public void addJogador(Jogador jogador){
-        if(jogadores.size() <= 11)
+        /*if(jogadores.size() <= 11)*/
         this.jogadores.add(jogador);
     }
     
